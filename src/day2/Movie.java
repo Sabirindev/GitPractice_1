@@ -7,4 +7,7 @@ public class Movie {
      //watching until 10 more mins
     //watching until 25 mins
 
+
+    //Added some awsome functionality throu branch tc100
+
 }
