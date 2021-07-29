@@ -1,6 +1,5 @@
 This is  the file i added to our project
-
-
+this is for example
 this is more  text I am adding from GitHub.com
 commit3 from local
 commit4 from local
