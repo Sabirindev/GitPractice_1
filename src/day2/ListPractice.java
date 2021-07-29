@@ -5,6 +5,7 @@ import java.util.List;
 
 public class ListPractice {
     List<String> lst = new ArrayList<>();
+    //add somthing
 
 
 }
