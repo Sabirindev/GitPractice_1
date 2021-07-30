@@ -4,7 +4,7 @@ public class BooleanWrapperClassPractice {
     public static void main(String[] args) {
 
         System.out.println("***** None - Boxing ***************");
-        //UnBoxing
+        //None Boxing
         boolean b1 = Boolean.parseBoolean("True");
         boolean b2 = Boolean.parseBoolean("true");
         System.out.println("b1 = " + b1); //true
@@ -12,7 +12,7 @@ public class BooleanWrapperClassPractice {
 
 
         System.out.println("******* Auto - Boxing *************");
-        // None - Boxing
+        // Auto - Boxing
         Boolean r1 = Boolean.parseBoolean("TrUe");
         Boolean r2 = Boolean.parseBoolean("true");
         System.out.println("r1 = " + r1); //true
